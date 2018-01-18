@@ -1,0 +1,17 @@
+你已经了解很多 Web 开发的知识。在继续学习下一阶段之前，请暂停一下，思考并回答以下问题：
+
+  * 你学到了哪些新技能？
+  * 哪些你觉得很容易？
+  * 哪些你觉得很难？
+  * 你运用了哪些之前介绍过的“开发者思维”来解决你在学习过程中遇到的困难？
+
+---
+
+在下方输入你的回答：
+*学会了如下一些HTML标记： 
+ <html>, <head>, <title>, <body>, <meta charset="UTF-8">, <p>, <h1> ~ <h6>, <ul>, <ol>, <li>, 
+ <div>, <figure>, <figcaption>, <a>, <img>, <em>, <b>, <strong>, <s>, <del>, <ins>, <sup>, <sub>,
+ <hr>, <span>
+* 都还好。
+* 没有。
+* 通过搜索：https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element#文档元数据， 来学习html标记。
